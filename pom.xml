@@ -8,6 +8,8 @@
     <artifactId>spring-boot-quick</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>quick-security</module>
+        <!--
         <module>quick-swagger</module>
         <module>quick-modules</module>
         <module>quick-package-assembly</module>
@@ -59,6 +61,7 @@
         <module>quick-graphQL</module>
         <module>quick-saturn</module>
         <module>quick-zookeeper</module>
+        -->
     </modules>
     <packaging>pom</packaging>
     <description>使用springboot框架做的一些例子，做个记录，以后方便即拿即用</description>
